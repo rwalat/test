@@ -9,9 +9,4 @@ public class test
 		{
 			System.out.println("hahaha");
 		}
-		
-		public void printSomething() 
-		{
-			System.out.piintln("cos tam");
-		}
 }
