@@ -1,6 +1,2 @@
 vvvvvvv
-<<<<<<< HEAD
-asdasd
-=======
-dupa dupa
->>>>>>> 37c05005fed9c82e62110e869686f6f690891037
+jjj
