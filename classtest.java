@@ -12,6 +12,6 @@ public class test
 		
 		public void printSomething() 
 		{
-			System.out.piintln("cos tam");
+			System.out.piintln("cos tttttam");
 		}
 }
