@@ -4,4 +4,9 @@ public class test
 		{
 			int i = 0 ;
 		}
+		
+		public void printxD() 
+		{
+			System.out.println("hahaha");
+		}
 }
