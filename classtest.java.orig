@@ -9,9 +9,12 @@ public class test
 		{
 			System.out.println("hahaha");
 		}
+<<<<<<< HEAD
+=======
 		
 		public void printSomething() 
 		{
 			System.out.piintln("cos tttttam");
 		}
+>>>>>>> 7b8b80e9f8c94ed152fdd05dc23d7c95fdbd031b
 }
